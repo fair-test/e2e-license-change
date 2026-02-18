@@ -1,2 +1,1 @@
-# e2e-license-change
-README + MIT LICENSE for change testing
+# E2E License - Change
